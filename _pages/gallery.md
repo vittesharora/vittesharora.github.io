@@ -5,6 +5,7 @@ permalink: /gallery/
 author_profile: false
 comments: true
 ---
+“A photograph is a secret about a secret. The more it tells you the less you know.” – Diane Arbus
 <style type='text/css'>
 div.gallery {
   margin: 13px;
@@ -20,7 +21,7 @@ div.gallery img {
 }
 
 div.page__inner-wrap{
-  width:900px!important;
+  width:900px;
 }
 div.desc {
   padding: 15px;
