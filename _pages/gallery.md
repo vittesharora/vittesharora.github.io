@@ -13,6 +13,10 @@ div.gallery {
   width: 180px;
 }
 
+div.container{
+  margin-left:auto;
+  margin-right:auto;
+}
 div.gallery img {
   width: 11em;
   height: 10em;
