@@ -39,7 +39,6 @@ div.desc {
       </a>
 </div> 
   {% endfor %} -->
-<div class="container">
 <!-- img 1-->
 <div class="gallery">
   <a target="_blank" href="/pics/gallery/Udaipur_LP1.jpeg">
@@ -170,6 +169,5 @@ div.desc {
   <a target="_blank" href="/pics/gallery/sunset3.jpeg">
     <img src="/pics/gallery/sunset3.jpeg">
   </a>
-</div>
 </div>
 {% include gallery caption="** **" %}
