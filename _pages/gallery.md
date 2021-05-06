@@ -28,7 +28,7 @@ div.desc {
   text-align: center;
 }
 </style>
-  {% for image in gallery %}
+  {% for image in site.pics/gallery %}
     <div class="gallery">
       <a target="_blank" href="{{image.url}}">
        <img src="{{image.url}}">
