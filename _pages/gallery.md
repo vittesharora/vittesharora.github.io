@@ -12,7 +12,6 @@ div.gallery {
   width: 180px;
 }
 
-
 div.gallery img {
   width: 11em;
   height: 10em;
@@ -28,14 +27,13 @@ div.desc {
   text-align: center;
 }
 </style>
-  {% for image in site.pics/gallery %}
+  <!-- {% for image in site.pics/gallery %}
     <div class="gallery">
       <a target="_blank" href="{{image.url}}">
        <img src="{{image.url}}">
       </a>
-</div>
-  
-  {% endfor %}
+</div> 
+  {% endfor %} -->
 <!-- img 1-->
 <div class="gallery">
   <a target="_blank" href="/pics/gallery/Udaipur_LP1.jpeg">
@@ -51,63 +49,63 @@ div.desc {
 
 <!-- img 3 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/GymkhanaIITB.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Knowledge_Tree.jpeg">
+    <img src="/pics/gallery/Knowledge_Tree.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 4 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Slides.jpeg">
+    <img src="/pics/gallery/Slides.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 5 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Sunset.jpeg">
+    <img src="/pics/gallery/Sunset.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 6 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Convohall_IITB.jpeg">
+    <img src="/pics/gallery/Convohall_IITB.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 7 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Ropeway.jpeg">
+    <img src="/pics/gallery/Ropeway.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 8 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/City.jpeg">
+    <img src="/pics/gallery/City.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 9 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Lake_Pichola.jpeg">
+    <img src="/pics/gallery/Lake_Pichola.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 10 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
-    <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Badi_Lake.jpeg">
+    <img src="/pics/gallery/Badi_Lake.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 11 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Udaipur_GB1.jpeg">
+  <a target="_blank" href="/pics/gallery/GymkhanaIITB.jpeg">
     <img src="/pics/gallery/GymkhanaIITB.jpeg" alt="Garden">
   </a>
 </div>
