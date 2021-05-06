@@ -2,7 +2,7 @@
 title: "Gallery"
 layout: single
 permalink: /gallery/
-author_profile: true
+author_profile: false
 comments: true
 ---
 <style type='text/css'>
