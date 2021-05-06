@@ -12,9 +12,7 @@ div.gallery {
   float: left;
   width: 180px;
 }
-body{
-  margin: auto!important;  
-}
+
 div.gallery img {
   width: 11em;
   height: 10em;
@@ -37,6 +35,7 @@ div.desc {
       </a>
 </div> 
   {% endfor %} -->
+<div class="container">
 <!-- img 1-->
 <div class="gallery">
   <a target="_blank" href="/pics/gallery/Udaipur_LP1.jpeg">
@@ -168,6 +167,5 @@ div.desc {
     <img src="/pics/gallery/sunset3.jpeg">
   </a>
 </div>
-
-
+</div>
 {% include gallery caption="** **" %}
