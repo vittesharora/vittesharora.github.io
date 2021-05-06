@@ -120,15 +120,15 @@ div.desc {
 
 <!-- img 13 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/cycle.jpeg">
-    <img src="/pics/gallery/cycle.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Cycle.jpeg">
+    <img src="/pics/gallery/Cycle.jpeg" alt="Cycle">
   </a>
 </div>
 
 <!-- img 14 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Lakeside.jpeg">
-    <img src="/pics/gallery/Lakeside.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/Lakeside.jpg">
+    <img src="/pics/gallery/Lakeside.jpg" alt="Garden">
   </a>
 </div>
 
@@ -141,15 +141,15 @@ div.desc {
 
 <!-- img 16 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/Lake_Pichola.jpeg">
-    <img src="/pics/gallery/Lake_Pichola.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/boat.jpeg">
+    <img src="/pics/gallery/boat.jpeg" alt="Garden">
   </a>
 </div>
 
 <!-- img 17 -->
 <div class="gallery">
-  <a target="_blank" href="/pics/gallery/sunset_2.jpeg">
-    <img src="/pics/gallery/sunset_2.jpeg" alt="Garden">
+  <a target="_blank" href="/pics/gallery/sunset_2.jpg">
+    <img src="/pics/gallery/sunset_2.jpg" alt="Garden">
   </a>
 </div>
 
