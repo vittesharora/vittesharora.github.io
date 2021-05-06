@@ -12,7 +12,9 @@ div.gallery {
   float: left;
   width: 180px;
 }
-
+body{
+  margin: auto!important;  
+}
 div.gallery img {
   width: 11em;
   height: 10em;
